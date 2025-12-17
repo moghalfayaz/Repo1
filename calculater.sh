@@ -1,4 +1,4 @@
 #i/bin/bash
 
 # Adition
-X=1+4
+X=1+7
